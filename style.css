@@ -169,7 +169,4 @@
     padding: 5px;} */
 
 /* multiple stylesheet in css @import */
-@import url(./test-stylesheet.css);
-#heading1{
-    color: red;
-}
+/* @import */
