@@ -42,7 +42,7 @@
 
 /* z index */
 
-    h1 {
+    /* h1 {
     position: fixed;
     top: 0px;
     left: 0px;
@@ -54,4 +54,55 @@
     p {
     position: relative;
     top: 70px;
-    left: 70px;}
+    left: 70px;} */
+
+/* floating element */
+
+    /* blockquote {
+    float: right;
+    width: 275px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, Times, serif;
+    margin: 0px 0px 10px 10px;
+    padding: 10px;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;} */
+
+/* place element side by side */
+
+    /* body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;}
+    p {
+    width: 230px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    background-color: #efefef;} */
+
+/* clear */
+/* body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;}
+    p {
+    width: 230px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    background-color: #efefef;}
+    .clear {
+    clear: left;} */
+
+/* multi column layout floats */
+
+    .column1of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;}
+    .column2of2 {
+    float: left;
+    width: 300px;
+    margin: 10px;}
